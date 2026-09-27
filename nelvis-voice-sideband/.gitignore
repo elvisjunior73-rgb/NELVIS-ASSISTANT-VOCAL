@@ -1,0 +1,14 @@
+# Secrets et environnement
+.env
+
+# Dependances
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+logs/
+
+# Divers
+.DS_Store
+*.pid
